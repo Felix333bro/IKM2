@@ -1,0 +1,6 @@
+﻿  IKM2.cpp
+  code.cpp
+  algorithm.cpp
+  Создание кода...
+C:\Users\Lenovo\source\repos\IKM2\algorithm.cpp(161,1): warning C4715: Tree::applyOp: значение возвращается не при всех путях выполнения
+  IKM2.vcxproj -> C:\Users\Lenovo\source\repos\IKM2\x64\Debug\IKM2.exe
